@@ -12,7 +12,7 @@
 – Age distribution of the train and validation cohorts
 
 <p float="left">
-  <img src="figures/train_distribution.png" style="width:45%; height:auto;"/>
+  <img src="figures/train_distribution.png" style="width:95%; height:auto;"/>
 </p>
 
 - XGBoost results on BHRC
