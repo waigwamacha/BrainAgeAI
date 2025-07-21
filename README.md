@@ -37,7 +37,10 @@
 #### Results Presented at Society of Biological Psychiatry Conference in Toronto (April 2025)
 
 <p float="left">
-  <img src="figures/sobp_poster.png" style="width:75%; height:auto;"/>
+  <img src="figures/sobp_poster.png" style="width:100%; height:auto;"/>
 </p>
 
 
+#### Brain Age CNN Architecture 
+
+![](figures/cnnvgg16.png)
